@@ -21,14 +21,17 @@
 ---
 
 ### Interests
-Mostly code Expert Advisors trading systems, creating indicatior base trading systems, backtesting and optimising different values and trading techniques 🤑.
+Mostly code Expert Advisors trading systems, creating indicatior/ML base trading systems, backtesting and optimising parameters and testing different features 🤑.
 
 Expanding my scope to learn DSA and fullstack development skills in recent and future projects to see what areas i like.
 
 ### Current Projects:
 - EA systems - trading systems, optimisation and backtesting.
-- Fintrak - finance tracker webapp, from database to frontend.
+- ML systems - see how i can apply ML with some features.
 
+### To be improved:
+- Fintrak - finance tracker webapp, from database to frontend.
+  
 ### Finished Projects:
 - EA systems
 - LLM Ai model with personas
